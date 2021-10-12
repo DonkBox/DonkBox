@@ -7,4 +7,4 @@
       DonkBox#8492 on Discord;
       shallowrics@gmail.com.
 
-![image](https://user-images.githubusercontent.com/79010874/136909611-8db9c902-3860-45b3-869b-410fb5f108e6.png)
+<img src="https://github-readme-stats.vercel.app/api?username=DonkBox&&show_icons=true&title_color=ffffff&icon_color=448d48&text_color=daf7dc&bg_color=252424">
